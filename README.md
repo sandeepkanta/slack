@@ -6,3 +6,4 @@ Developed a slack plugin to track, how employee feels and how its effecting thei
 Used DynamoDB as the data store, as it is guaranteed less than 10 MS latency.
 Used Kibana & Elasticsearch to capture the business metrics such as how many people feeling good/bad in a day.
 Used serverless framework AWS SAML for API development to develop in less than dollar infrastructure.
+   
